@@ -1,21 +1,20 @@
 html{
-    background: url(https://images.pexels.com/photos/4551832/pexels-photo-4551832.jpeg);
+    background: rgb(0, 0, 0, 0.395) url(https://images.pexels.com/photos/4551832/pexels-photo-4551832.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-blend-mode:color-burn;
 }
 h1{
     text-shadow: 10px 10px 12px rgb(0, 0, 0);
     border-radius: 2rem;
     text-align: center;
-    color: rgb(53, 113, 117);
-    font-size: 152px;
+    color: rgb(243, 243, 243);
+    font-size: 118px;
     padding-top: 10%;
     margin-left: 20%;
     margin-right: 20%;
 }
-ul{
-    background-color: rgba(0, 0, 0, 0.568);
-    border-radius: 2rem;
+ul{   
     list-style: none;
     text-align: center;
     line-height: 80px;
@@ -24,8 +23,8 @@ ul{
 }
 li a{
     color: rgb(216, 214, 214);    
+    text-shadow: 10px 10px 12px rgb(0, 0, 0);
     text-decoration: none;
-    font-size: 38px;
+    font-size: 32px;
     font-weight: bold;
-    text-align: center;
 }
