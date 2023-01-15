@@ -10,3 +10,7 @@ Im looking forward for the next project.
 
 Created a CSS directory to separate .css files from the rest. Then linked the style.css to the index.html, so I was able to add CSS to the main page.
 A little bit of google was used to achieve some styles.
+
+CSS Foundation Assignment 2 completed, I also explored the use of media query
+for the first time.
+It's progress to success.
